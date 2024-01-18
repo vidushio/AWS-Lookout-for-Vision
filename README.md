@@ -3,7 +3,7 @@
 
 ## Introduction
 
-In the context of modern technological advancements, this guided project is an exploration into the development of an automated image quality inspection system using Amazon Lookout for Vision. Amazon Lookout for Vision, a prominent Machine Learning as a Service (MLaaS) offered by Amazon Web Services, serves as the cornerstone for this endeavor. It presents an opportunity to delve into the realm of image analytics, enabling the seamless execution of complex tasks without the necessity of writing code.
+In the context of modern technological advancements, this project is an exploration into the development of an automated image quality inspection system using Amazon Lookout for Vision. Amazon Lookout for Vision, a prominent Machine Learning as a Service (MLaaS) offered by Amazon Web Services, serves as the cornerstone for this endeavor. It presents an opportunity to delve into the realm of image analytics, enabling the seamless execution of complex tasks without the necessity of writing code.
 
 Amazon Lookout for Vision's versatile capabilities extend to addressing intriguing use cases, including but not limited to drone detection, defect identification, object recognition, smile detection, and fall detection. This project underscores the practical application of Lookout for Vision, demonstrating its prowess in automating intricate image analysis workflows.
 
